@@ -1,0 +1,86 @@
+
+#gfold_top {
+	padding-bottom: 8px;
+	min-height: 40px;
+	border-bottom: 1px solid #DDD;
+}
+#gfold_file {
+	margin-right: 10px;
+	margin-left: 0;
+	position: relative;
+	top: 1px;
+}
+#gfold_submit {
+	margin-right: 8px;
+}
+#gfold_uploader {
+	width: 1px;
+	height: 1px;
+	visibility: hidden;
+}
+#gfold_result {
+	padding: 1px 7px 1px 7px;
+	margin-left: 2px;
+	display: none;
+	color: #000;
+	border: 1px solid;
+	border-radius: 3px;
+}
+#gfold_result img {
+	vertical-align: -1px;
+	margin-left: 3px;
+	width: 10px; height: 10px;
+}
+#gfold_table td {
+	padding: 5px 8px;
+	white-space: nowrap;
+}
+#gfold_table tr {
+	background: #FFF;
+}
+#gfold_table .stripe {
+	background: #FAFAFA;
+}
+#gfold_table .title {
+	width: 50%;
+	white-space: normal;
+}
+#gfold_table .right {
+	text-align: right;
+}
+#gfold_table .filler {
+	transition: height 0.1s;
+	-ms-transition: height 0.1s;
+	-moz-transition: height 0.1s;
+	-webkit-transition: height 0.1s;
+}
+#gfold_table tr {
+	transition: opacity 0.2s;
+	-ms-transition: opacity 0.2s;
+	-moz-transition: opacity 0.2s;
+	-webkit-transition: opacity 0.2s;
+}
+
+#gfold_table .right span {
+	visibility: hidden;
+}
+
+#gfold_table tr:hover .right span {
+	visibility: visible;
+}
+
+#gfold_table a {
+	margin-left: 9px;
+}
+#gfold_result.error {
+	background: #ffb7b1;
+	border-color: #e66f66;
+}
+#gfold_result.success {
+	background: #E5FFC5;
+	border-color: #AFEB65;
+}
+#gfold_result.progress {
+	background: #F4F4F4;
+	border-color: #EAEAEA;
+}

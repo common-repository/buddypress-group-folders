@@ -1,0 +1,162 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Group Folders\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-group-folders\n"
+"POT-Creation-Date: 2013-03-15 22:52:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-03-16 01:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: bp-gfold-admin.php:11 bp-gfold-admin.php:99
+msgid "Group Folders"
+msgstr ""
+
+#: bp-gfold-admin.php:90 bp-gfold-admin.php:93
+msgid "Normal"
+msgstr ""
+
+#: bp-gfold-admin.php:91 bp-gfold-admin.php:93
+msgid "Restricted"
+msgstr ""
+
+#: bp-gfold-admin.php:93
+msgid "Anyone can access a file if they know the precise filename."
+msgstr ""
+
+#: bp-gfold-admin.php:93
+msgid "Filenames are obfuscated to be difficult to guess."
+msgstr ""
+
+#: bp-gfold-extension.php:31
+msgid "Upload failed."
+msgstr ""
+
+#: bp-gfold-extension.php:34
+msgid "Done!"
+msgstr ""
+
+#: bp-gfold-extension.php:34
+msgid "All done!"
+msgstr ""
+
+#: bp-gfold-extension.php:36
+msgid "1 file uploaded successfully."
+msgstr ""
+
+#: bp-gfold-extension.php:36
+msgid "%s files uploaded successfully."
+msgstr ""
+
+#: bp-gfold-extension.php:47
+msgid "Upload"
+msgstr ""
+
+#: bp-gfold-extension.php:56
+msgid "Uploading"
+msgstr ""
+
+#: bp-gfold-extension.php:57
+msgid "Upload failed"
+msgstr ""
+
+#: bp-gfold-extension.php:58
+msgid "Authentication error"
+msgstr ""
+
+#: bp-gfold-extension.php:59
+msgid "Confirm delete: \"%s\""
+msgstr ""
+
+#: bp-gfold-extension.php:60
+msgid "Rename \"%s\":"
+msgstr ""
+
+#: bp-gfold-extension.php:61
+msgid "Failed to delete."
+msgstr ""
+
+#: bp-gfold-extension.php:62
+msgid "Failed to rename."
+msgstr ""
+
+#: bp-gfold-extension.php:63
+msgid "Failed to rename. The file may have just been renamed or deleted."
+msgstr ""
+
+#: bp-gfold-extension.php:70
+msgid "(nothing yet)"
+msgstr ""
+
+#: bp-gfold.php:16
+msgid "Folder name"
+msgstr ""
+
+#: bp-gfold.php:18
+msgid "Files"
+msgstr ""
+
+#: bp-gfold.php:22
+msgid "Allowed groups"
+msgstr ""
+
+#: bp-gfold.php:28
+msgid "Maximum file size"
+msgstr ""
+
+#: bp-gfold.php:29 bp-gfold.php:36
+msgid "MB"
+msgstr ""
+
+#: bp-gfold.php:35
+msgid "Maximum folder size"
+msgstr ""
+
+#: bp-gfold.php:42
+msgid "Store folders under path"
+msgstr ""
+
+#: bp-gfold.php:44
+msgid "gfold"
+msgstr ""
+
+#: bp-gfold.php:48
+msgid "Outsider access"
+msgstr ""
+
+#: bp-gfold.php:54
+msgid "When out of space"
+msgstr ""
+
+#: bp-gfold.php:58
+msgid "Delete older files automatically"
+msgstr ""
+
+#: bp-gfold.php:141
+msgid "b,kb,MB,GB,TB,PB"
+msgstr ""
+
+#: bp-gfold.php:211
+msgid "open"
+msgstr ""
+
+#: bp-gfold.php:211
+msgid "download"
+msgstr ""
+
+#: bp-gfold.php:211
+msgid "rename"
+msgstr ""
+
+#: bp-gfold.php:211
+msgid "delete"
+msgstr ""
+
+#: bp-gfold.php:345
+msgid "Untitled"
+msgstr ""
